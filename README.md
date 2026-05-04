@@ -27,6 +27,6 @@
   
   ---
 
-  <sub>963 contributions in 2026 · Based in Serbia</sub>
+  <sub>963 contributions in 2026 · Based in Germany & Serbia</sub>
 
   ---
