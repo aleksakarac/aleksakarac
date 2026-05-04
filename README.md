@@ -1,4 +1,4 @@
-
+---
   # Hey, I'm Aleksa 👋
 
   **Freelance developer & founder of [KaracDev](https://karacdev.com)** — I build web apps, desktop tools, and mobile products for clients and myself.
@@ -24,3 +24,9 @@
   ## Client Work
 
   I build production web apps for clients — CMS-driven sites, multilingual platforms, custom tools. Available for freelance projects via [karacdev.com](https://karacdev.com).
+  
+  ---
+
+  <sub>963 contributions in 2026 · Based in Serbia</sub>
+
+  ---
